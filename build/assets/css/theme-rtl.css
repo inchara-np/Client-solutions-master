@@ -4714,6 +4714,7 @@ textarea.form-control-lg {
 .btn-outline-light {
   color: #F1F1F1;
   border-color: #F1F1F1;
+  visibility: hidden;
 }
 .btn-outline-light:hover {
   color: #536468;
